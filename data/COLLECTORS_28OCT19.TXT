@@ -1,5 +1,4 @@
 COLL_ID	NAME	LNAME	FNAME	MNAME	NAME_TO_PRINT	TITLE	POSITION	BIRTH_DT	DEATH_DT	COUNTRY_ONE_LINE	BIRTH_DT	DEATH_DT	COUNTRY_CODE
-string	string	string	string	string	string	string	string	string	string	string	string	string	string
 L789	L. Leclercq	Leclercq	L.										
 PLZGE	Pilz G.E.	Pilz	George	E.	E. Pilz:George Pilz:G. Pilz:Pilz:Pilz E.:Pilz G.					Costa Rica, Nigeria, USA			CR:NG:US
 CLIPP	De Clippele	De Clippele											
